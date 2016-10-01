@@ -1,0 +1,9 @@
+main {
+	padding: 30px;
+}
+
+.bigbox {
+	height: 500px;
+	width: 800px;
+	border: 1px black;
+}
